@@ -1,0 +1,9 @@
+node_modules/
+dist/
+qa/
+source-assets/
+.openai/
+.sites-runtime/
+.env
+.env.*
+*.log
